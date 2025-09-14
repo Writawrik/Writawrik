@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Writawrik
-- 👀 I’m interested in Epigenomics
+- 👀 I’m interested in Computational Biology and Brain Development
 - 🌱 I’m currently learning R programming and Machine Learning
-- 💞️ I’m looking to collaborate on Epigenomic research on Ageing
+- 💞️ I’m looking to collaborate on Transcriptomic and Epigenomic research on Neurodevelopment
 - 📫 Reach me @ https://shorturl.at/biCG5
 
 <!---
